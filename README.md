@@ -26,5 +26,5 @@ Execute o Selenium: npx mocha --no-timeouts "test/loginNegativo.js" (Para o test
 - Anexe capturas de tela, se necessário.
 
 ### Status
-- **Data do Teste:** 08/08/2024
+- **Data do Teste:** 09/08/2024
 - **Testador:** Thierry Castro
